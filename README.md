@@ -1,3 +1,1 @@
 # MyFirstSampleApp
-# MyFirstSampleApp
-# MyFirstSampleApp
